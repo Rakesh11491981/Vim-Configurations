@@ -1,0 +1,2 @@
+# Vimrc
+contain _vimrc
