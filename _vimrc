@@ -158,7 +158,7 @@ set background=dark
 
 " Set extra options when running in GUI mode
 if has("gui_running")
-    set guifont=Consolas:h9
+    set guifont=Consolas:h12
     set guioptions-=T
     set guioptions-=e
     set t_Co=256
